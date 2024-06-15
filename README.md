@@ -26,7 +26,7 @@
 - Transforms the diamond hoe into a stick of god
 - Transforms the golden hoe into a heal stick
 - Transforms the iron hoe into a strength stick
-- Transforms the blaze rod into a potion launcher
+- Transforms the saddle into a potion launcher
 
 ## Build
 
