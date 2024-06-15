@@ -1,0 +1,7 @@
+name: PalaVanilla
+author: crazycat256
+main: fr.crazycat256.palavanilla.PalaVanilla
+description: A plugin that makes pvp similar to Paladium's pvp
+version: 1.0
+api-version: 1.8
+commands:
